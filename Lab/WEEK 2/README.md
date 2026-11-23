@@ -1,4 +1,4 @@
-Week 2 - Provider Agnostic LLM Client
+WEEK 2 - Provider Agnostic LLM Client
 
 This experiment provides a common interface for interacting with different LLM providers. 
 We can choose either Gemini or Ollama and generate responses.
