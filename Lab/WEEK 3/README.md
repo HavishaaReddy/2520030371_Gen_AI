@@ -8,7 +8,7 @@ Requirements: Python 3.14, MongoDB Atlas, Gemini API Key, Ollama
 Setup:
 1. Install dependencies using pip install -r requirements.txt
 2. Configure the .env file with the Gemini API key and MongoDB URI
-3. (Optional) Download the Ollama model using ollama pull llama3.2
+3. Download the Ollama model using ollama pull llama3.2
 
 Run:python main.py
 
