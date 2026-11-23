@@ -3,6 +3,8 @@ Week 3 - LLM Monitoring System
 This experiment demonstrates monitoring and logging of LLM API usage using Gemini/Ollama and MongoDB.
 The application sends a user prompt to an LLM, generates a response, measures latency and token usage, estimates cost, and stores the usage details in MongoDB for tracking.
 
+Files: main.py, llm_client.py, usage_logger.py, test_client.py, test_mongodb.py, requirements.txt.
+
 Requirements: Python 3.14, MongoDB Atlas, Gemini API Key, Ollama 
 
 Setup:
