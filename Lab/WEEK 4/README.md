@@ -6,6 +6,8 @@ In this experiment, the same sentences in three different languages are processe
 The program displays the generated tokens, token IDs and token counts for each tokenizer.
 By comparing the outputs, we can observe how different tokenization techniques handle multilingual text.
 
+Files: requirements.txt, tokenizer_comparison.py
+
 Requirements: Python 3.14, transformers, sentencepiece
 
 Setup:
