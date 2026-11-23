@@ -1,4 +1,4 @@
-Week 3 - LLM Monitoring System
+WEEK 3 - LLM Monitoring System
 
 This experiment demonstrates monitoring and logging of LLM API usage using Gemini/Ollama and MongoDB.
 The application sends a user prompt to an LLM, generates a response, measures latency and token usage, estimates cost, and stores the usage details in MongoDB for tracking.
