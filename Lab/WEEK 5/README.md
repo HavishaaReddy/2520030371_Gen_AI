@@ -4,6 +4,8 @@ This experiment is used to estimate the cost and usage of an LLM-based applicati
 
 The program takes expected values such as user requests, token usage, and budget limits, then calculates the estimated cost and checks whether the application can handle the expected traffic within the given limits.
 
+Files: budget.py, test_budget.py, .env, and requirements.txt.
+
 Requirements: Python 3.14 and python-dotenv.
 
 Setup:
