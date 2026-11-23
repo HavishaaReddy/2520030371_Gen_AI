@@ -3,6 +3,9 @@ Week 2 - Provider Agnostic LLM Client
 This experiment provides a common interface for interacting with different LLM providers. 
 We can choose either Gemini or Ollama and generate responses.
 
+Files: main.py, llm_client.py, test_client.py, .env, and requirements.txt.
+
+
 Requirements: Python 3.14+, Gemini API Key, Ollama
 
 Setup:
